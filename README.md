@@ -1,2 +1,2 @@
 # LogUploader
-upload log
+tool for uploading logs
